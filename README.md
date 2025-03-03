@@ -1,1 +1,1 @@
-# redirect-ayumo
+# redirect-coin-ayumo
